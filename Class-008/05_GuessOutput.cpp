@@ -41,8 +41,10 @@ y++ ;
             // Problem 4 
 /* int main( ) {
 int t = 10;
-while(t/=2){
+while(t/=2){                        here t=t/2 so t=5,2,1 so three times hello displayed
 cout << “Hello” << endl;
 }
 } */             
-             // Output: Infinite loop and displays Hello
+             // Output:  Hello
+             //          Hello
+                 //      Hello
