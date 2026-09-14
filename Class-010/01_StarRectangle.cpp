@@ -1,7 +1,7 @@
 /* *****
    *****
    *****  
-   Star Rectangle*/
+   Star Rectangle */
 
 #include<iostream>
 using namespace std;
