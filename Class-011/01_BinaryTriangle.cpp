@@ -17,4 +17,14 @@ int main(){
         }
         cout<<endl;
     }
+    /* int a=0;                        // Method 2 by me
+       for(int i=0;i<n;i++){
+       a=i;
+        for(int j=0;j<(i+1);j++){
+          a++;
+          if(a%2!=0) cout<<1;
+          else cout<<0;
+        } 
+       }
+        */
 }
